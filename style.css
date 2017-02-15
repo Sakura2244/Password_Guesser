@@ -1,0 +1,21 @@
+
+
+button {
+  font-size: 20px;
+  border-radius: 10px;
+}
+
+p {
+  font-size: 18px;
+  color: purple;
+}
+
+#secret{
+    width: 200px;
+    height: 40px;
+    font-size: 14px;
+    }
+    
+#result{
+    font-size: 20px;
+    }
